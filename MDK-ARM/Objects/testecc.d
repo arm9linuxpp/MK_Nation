@@ -1,0 +1,10 @@
+.\objects\testecc.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\tinydtls\ecc\testecc.c
+.\objects\testecc.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\testecc.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\testecc.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\testecc.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\testecc.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\tinydtls\ecc\ecc.h
+.\objects\testecc.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\testecc.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\testecc.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\tinydtls\ecc\test_helper.h
+.\objects\testecc.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\time.h

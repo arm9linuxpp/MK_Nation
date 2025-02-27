@@ -1,0 +1,16 @@
+.\objects\viconnection.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\transport\udp\viconnection.c
+.\objects\viconnection.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\viconnection.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\viconnection.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\transport\udp\../../transport/udp/include/udp/connection.h
+.\objects\viconnection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\arpa/inet.h
+.\objects\viconnection.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\include\liblwm2m.h
+.\objects\viconnection.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\viconnection.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\viconnection.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\viconnection.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\objects\viconnection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\netdb.h
+.\objects\viconnection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\netinet/in.h
+.\objects\viconnection.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\viconnection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\sys/socket.h
+.\objects\viconnection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\sys/stat.h
+.\objects\viconnection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\unistd.h

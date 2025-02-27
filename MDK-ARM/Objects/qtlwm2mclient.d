@@ -1,0 +1,14 @@
+.\objects\qtlwm2mclient.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\qtlwm2mclient.c
+.\objects\qtlwm2mclient.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\examples\client\lwm2mclient.h
+.\objects\qtlwm2mclient.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\include\liblwm2m.h
+.\objects\qtlwm2mclient.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\qtlwm2mclient.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\qtlwm2mclient.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\qtlwm2mclient.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\objects\qtlwm2mclient.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\vi_lwm2m.h
+.\objects\qtlwm2mclient.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\coap\er-coap-13\../../transport/udp/include/udp/connection.h
+.\objects\qtlwm2mclient.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\arpa/inet.h
+.\objects\qtlwm2mclient.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\netdb.h
+.\objects\qtlwm2mclient.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\netinet/in.h
+.\objects\qtlwm2mclient.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\qtlwm2mclient.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\sys/socket.h

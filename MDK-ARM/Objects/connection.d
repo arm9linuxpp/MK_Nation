@@ -1,0 +1,11 @@
+.\objects\connection.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\transport\tinydtls\connection.c
+.\objects\connection.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\transport\tinydtls\include\tinydtls\connection.h
+.\objects\connection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\arpa/inet.h
+.\objects\connection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\netdb.h
+.\objects\connection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\netinet/in.h
+.\objects\connection.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\connection.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\connection.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\connection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\sys/socket.h
+.\objects\connection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\sys/stat.h
+.\objects\connection.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\unistd.h

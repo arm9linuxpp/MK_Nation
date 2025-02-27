@@ -1,0 +1,77 @@
+15:40:46: Starte C:\work\git\qtwakaama\qtwakaama\build-QtWakaama-Desktop_Qt_6_5_7_MSVC2019_64bit-Debug\debug\QtWakaama.exe...
+QtIpV4Ud
+ XXXX PB1
+true
+socket->bind PASS * at port:  5683
+socket-> connected
+ XXXX PB1 udp connected lwm2m.mudip.com   5683
+ XXXX PB2
+DBG - [lwm2m_init:65] Entering
+DBG - [lwm2m_configure:285] endpointName: "urn:imei:866901063238649", msisdn: "", altPath: "", numObject: 11
+DBG - [lwm2m_step:390] timeoutP: 60
+DBG - [lwm2m_step:395] State: STATE_INITIAL
+DBG - [object_getServers:1038] Entering
+DBG - [lwm2m_data_new:160] size: 1
+DBG - [lwm2m_data_encode_bool:519] value: false
+DBG - [lwm2m_data_decode_bool:529] Entering
+DBG - [lwm2m_data_decode_bool:580] result: 1, value: false
+DBG - [lwm2m_data_free:178] size: 1
+DBG - [lwm2m_data_new:160] size: 1
+DBG - [lwm2m_data_encode_int:289] value: 123
+DBG - [lwm2m_data_decode_int:299] Entering
+DBG - [lwm2m_data_decode_int:362] result: 1, value: 123
+DBG - [lwm2m_data_new:160] size: 1
+DBG - [lwm2m_data_encode_int:289] value: 123
+DBG - [lwm2m_data_decode_int:299] Entering
+DBG - [lwm2m_data_decode_int:362] result: 1, value: 123
+DBG - [lwm2m_data_free:178] size: 1
+DBG - [lwm2m_data_new:160] size: 2
+DBG - [lwm2m_data_encode_int:289] value: 300
+DBG - [lwm2m_data_encode_string:214] "U"
+DBG - [lwm2m_data_decode_int:299] Entering
+DBG - [lwm2m_data_decode_int:362] result: 1, value: 300
+DBG - [lwm2m_data_free:178] size: 2
+DBG - [lwm2m_data_free:178] size: 1
+DBG - [registration_start:1029] State: STATE_REGISTER_REQUIRED
+DBG - [lwm2m_data_new:160] size: 1
+DBG - [lwm2m_data_free:178] size: 1
+DBG - [lwm2m_data_new:160] size: 1
+DBG - [lwm2m_data_free:178] size: 1
+DBG - [observe_step:523] Entering
+DBG - [registration_step:2057] State: STATE_REGISTERING
+DBG - [object_getRegisterPayloadBufferLength:786] Entering
+DBG - [object_getRegisterPayload:884] Entering
+Opening connection to server at lwm2m.mudip.com:5683
+DBG - [transaction_new:160] method: 2, altPath: "", mID: 3120, token_len: 4
+DBG - [transaction_new:161] 
+DBG - [transaction_new:241] Exiting on success. new transac=000001C64A40D820
+DBG - [transaction_send:372] Entering: transaction=000001C64A40D820
+Sending 215 bytes to [lwm2m.mudip.com]:5683
+QtIpV4Ud::sendUDP: 44020c30300cf3f6b272641128396c776d326d3d312e310d0e65703d75726e3a696d65693a38363639303130363332333836343903623d55066c743d333030ff3c2f3e3b72743d226f6d612e6c776d326d222c3c2f313e3b7665723d312e312c3c2f312f303e2c3c2f322f303e2c3c2f332f303e2c3c2f342f303e2c3c2f352f303e2c3c2f362f303e2c3c2f372f303e2c3c2f31392f303e2c3c2f333330332f303e2c3c2f33313032343e3b7665723d312e302c3c2f33313032342f31303e2c3c2f33313032342f31313e2c3c2f33313032342f31323e
+DBG - [transaction_step:459] Entering
+DBG - [lwm2m_step:497] Final timeoutP: 2
+DBG - [lwm2m_step:499] Final state: STATE_REGISTERING
+ -> State: STATE_REGISTERING
+QtIpV4Ud::rxUdpDataEvent in !
+Message:  "64410c30300cf3f68272640a394e66376b697965704b"  From:  "168.119.70.243" 5683
+ XXXX onUdsReceive len:  22
+DBG - [lwm2m_handle_packet:494] Entering
+DBG - [lwm2m_handle_packet:503] Parsed: ver 1, type 2, tkl 4, code 2.01, mid 3120, Content type: 0
+DBG - [lwm2m_handle_packet:504] Payload: 
+DBG - [transaction_handleResponse:295] Entering
+DBG - [prv_handleRegistrationReply:670] 123 Registration successful
+DBG - [lwm2m_data_new:160] size: 1
+DBG - [lwm2m_data_free:178] size: 1
+DBG - [transaction_remove:281] Entering. transaction=000001C64A40D820
+DBG - [transaction_free:257] Entering. transaction=000001C64A40D820
+DBG - [lwm2m_step:390] timeoutP: 2
+DBG - [lwm2m_step:395] State: STATE_REGISTERING
+DBG - [registration_getStatus:1095] State: STATE_REGISTERING
+DBG - [registration_getStatus:1102] 123 status: STATE_REGISTERED
+DBG - [registration_getStatus:1126] reg_status: STATE_REGISTERED
+DBG - [observe_step:523] Entering
+DBG - [registration_step:2057] State: STATE_READY
+DBG - [transaction_step:459] Entering
+DBG - [lwm2m_step:497] Final timeoutP: 2
+DBG - [lwm2m_step:499] Final state: STATE_READY
+ -> State: STATE_READY

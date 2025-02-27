@@ -1,0 +1,13 @@
+.\objects\cbor.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\data\cbor.c
+.\objects\cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\cbor.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\core\internals.h
+.\objects\cbor.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\include\liblwm2m.h
+.\objects\cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\objects\cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\cbor.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\core\bootstrap.h

@@ -1,0 +1,9 @@
+.\objects\viconnection_dtls.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\viconnection_dtls.c
+.\objects\viconnection_dtls.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\..\wakaama\transport\tinydtls\include\tinydtls\connection.h
+.\objects\viconnection_dtls.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\arpa/inet.h
+.\objects\viconnection_dtls.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\netdb.h
+.\objects\viconnection_dtls.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\netinet/in.h
+.\objects\viconnection_dtls.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\viconnection_dtls.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\viconnection_dtls.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\viconnection_dtls.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\sys/socket.h

@@ -1,0 +1,10 @@
+.\objects\er-coap-13.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\coap\er-coap-13\er-coap-13.c
+.\objects\er-coap-13.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\er-coap-13.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\er-coap-13.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\er-coap-13.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\coap\er-coap-13\er-coap-13.h
+.\objects\er-coap-13.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\er-coap-13.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\er-coap-13.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\include\liblwm2m.h
+.\objects\er-coap-13.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\er-coap-13.o: D:\Keil\ARM\ARMCC\Bin\..\include\time.h

@@ -1,0 +1,14 @@
+.\objects\dtls_debug.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\tinydtls\dtls_debug.c
+.\objects\dtls_debug.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\tinydtls\tinydtls.h
+.\objects\dtls_debug.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\dtls_config.h
+.\objects\dtls_debug.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\dtls_debug.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\dtls_debug.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\dtls_debug.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\win_fake_include\arpa/inet.h
+.\objects\dtls_debug.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\dtls_debug.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\objects\dtls_debug.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\tinydtls\global.h
+.\objects\dtls_debug.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\dtls_debug.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\tinydtls\dtls_debug.h
+.\objects\dtls_debug.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\tinydtls\session.h
+.\objects\dtls_debug.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\tinydtls\dtls_mutex.h

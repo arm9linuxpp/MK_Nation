@@ -1,0 +1,10 @@
+.\objects\system_api.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\examples\client\system_api.c
+.\objects\system_api.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\include\liblwm2m.h
+.\objects\system_api.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_api.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\system_api.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\system_api.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\objects\system_api.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\examples\client\lwm2mclient.h
+.\objects\system_api.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\system_api.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\system_api.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

@@ -1,0 +1,12 @@
+.\objects\platform.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\examples\shared\platform.c
+.\objects\platform.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\include\liblwm2m.h
+.\objects\platform.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\platform.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\platform.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\platform.o: D:\Keil\ARM\ARMCC\Bin\..\include\time.h
+.\objects\platform.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\platform.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\platform.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\platform.o: D:\Keil\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\platform.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\platform.o: ..\libuarte_V30\libuarte\lwm2m\qtWakaClient\vi_lwm2m.h

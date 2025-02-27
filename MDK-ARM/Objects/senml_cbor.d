@@ -1,0 +1,11 @@
+.\objects\senml_cbor.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\data\senml_cbor.c
+.\objects\senml_cbor.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\core\internals.h
+.\objects\senml_cbor.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\include\liblwm2m.h
+.\objects\senml_cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\senml_cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\senml_cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\senml_cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\objects\senml_cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\senml_cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\senml_cbor.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\senml_cbor.o: ..\libuarte_V30\libuarte\lwm2m\wakaama\core\bootstrap.h

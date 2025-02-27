@@ -1,0 +1,21 @@
+
+#ifndef VI_TS_H
+
+#define VI_TS_H
+
+const char *getTs(void);
+
+int vi_GetPort(void);
+
+
+void viFailureLog(char *);
+void viDebugLog(char *msg);
+int main_wakaama(void);
+int upd_wakaama(int one,int two, int three, const char *data);
+
+void viPlattformInit(void);
+void viPlattform50ms(void);
+time_t viPlattformTicks(void);
+
+
+#endif

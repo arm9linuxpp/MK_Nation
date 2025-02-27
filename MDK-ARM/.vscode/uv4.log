@@ -1,0 +1,5 @@
+Load "c:\\Users\\20597\\Desktop\\cellular - 副本\\Nation\\MDK-ARM\\Objects\\NationKey.axf" 
+_____^
+*** error 56: cannot open file
+Error: Flash Download failed  -  Could not load file 'c:\Users\20597\Desktop\cellular - 副本\Nation\MDK-ARM\Objects\NationKey.axf'
+Flash Load finished at 11:22:48
